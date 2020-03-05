@@ -62,3 +62,7 @@ footer{
 hr{
     width: 50%;
 }
+
+.content-table{
+    margin-left: 3px;
+}
