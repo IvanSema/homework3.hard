@@ -36,6 +36,7 @@ h5{
     vertical-align: top;
     }
 
+
 .second-block{
     vertical-align: top;
 }
@@ -44,6 +45,7 @@ h5{
     background-color: rgb(227,221,221);
     height: 300px;
     vertical-align: top;
+    width: 20%;
 }
 
 a{
@@ -55,6 +57,7 @@ a{
     background-color: rgb(189, 189, 189);
     color: rgb(0,0,0)
 }
+
 
 footer{
     text-align: center;
@@ -70,4 +73,5 @@ hr{
 
 .content-table{
         margin-left: 2px;
+        width: 100%;
     }
